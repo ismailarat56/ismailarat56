@@ -1,36 +1,42 @@
 # İsmail Arat
 
-> Frontend geliştirme ve modern web arayüzleri üzerine çalışan bir geliştirici.
+> Web uygulamaları, API'ler ve oyunlar geliştiren bir yazılım geliştirici.
 
-React, TypeScript, JavaScript, HTML ve CSS ile kullanıcı odaklı, responsive ve düzenli web projeleri geliştiriyorum. Öğrenme sürecimi gerçek proje pratikleriyle destekliyor; landing page’ler, kurumsal web arayüzleri, blog yapıları, dashboard prototipleri ve küçük ölçekli uygulamalar üzerinde çalışıyorum.
+Arayüz tarafında React ve TypeScript, sunucu tarafında Node.js ve Python ile çalışıyorum. Öğrendiklerimi gerçek projeler üzerinde deniyorum: kimlik doğrulamalı REST API'leri, WebSocket ile canlı güncellenen uygulamalar, veritabanı migration'ları, Docker kurulumları ve Unity ile oyun prototipleri.
 
-## Work
+## Öne çıkan projeler
 
-GitHub üzerinde farklı alanlarda frontend projeleri geliştiriyorum. Çalışmalarım arasında ürün tanıtım sayfaları, eczane ve kişisel antrenör web siteleri, otomotiv blog arayüzü, kahve markası klonu, portfolio sayfaları ve yapılacaklar uygulaması gibi projeler yer alıyor.
+| Proje | Ne yapar | Teknolojiler |
+|---|---|---|
+| [node-blog-api](https://github.com/ismailarat56/node-blog-api) | JWT kimlik doğrulamalı, rol tabanlı blog REST API'si | Node.js, Express, MySQL, Docker |
+| [node-blog-web](https://github.com/ismailarat56/node-blog-web) | Blog API'sinin arayüzü: blog sayfaları, yazar ve yönetim paneli | React, Vite, TanStack Query |
+| [live-board](https://github.com/ismailarat56/live-board) | Değişikliklerin bütün ekranlara anında yansıdığı görev panosu | TypeScript, WebSocket, PostgreSQL, Redis |
+| [yardim-masasi](https://github.com/ismailarat56/yardim-masasi) | Destek talebi API'si ve komut satırı araçları | Python, FastAPI, PostgreSQL, Alembic |
+| [firsat-radari](https://github.com/ismailarat56/firsat-radari) | RSS ve web sayfalarındaki değişiklikleri kanıtıyla izleyen yerel uygulama | TypeScript, Express, SQLite, React |
+| [cleanin](https://github.com/ismailarat56/cleanin) | Birinci şahıs temizlik oyunu, ilk oynanabilir sürüm | Unity 6, C# |
 
-Ayrıca C, C++ ve Java ile algoritma, temel programlama ve problem çözme pratiği yaparak yazılım temellerimi güçlendiriyorum.
+## Diğer çalışmalar
 
-## What I build
+- [coffee-landing](https://github.com/ismailarat56/coffee-landing) ve [boutique-hotel](https://github.com/ismailarat56/boutique-hotel): React ve TypeScript ile tanıtım siteleri.
+- [java-data-structures](https://github.com/ismailarat56/java-data-structures): Java ile sıfırdan veri yapıları ve algoritmalar.
+- [HackerRank-C--Solutions](https://github.com/ismailarat56/HackerRank-C--Solutions): C++ ile algoritma çözümleri.
 
-- React, TypeScript ve Vite tabanlı web uygulamaları
-- responsive ve modern kullanıcı arayüzleri
-- landing page, portfolio ve kurumsal web sayfaları
-- dashboard ve içerik yönetimi arayüzleri
-- HTML, CSS ve JavaScript ile etkileşimli frontend projeleri
-- C, C++ ve Java ile programlama pratiği
+## Kullandığım teknolojiler
 
-## Approach
+- **Arayüz:** React, TypeScript, JavaScript, Vite, Tailwind CSS
+- **Sunucu:** Node.js, Express, Python, FastAPI
+- **Veri:** PostgreSQL, MySQL, SQLite, Redis
+- **Araçlar:** Docker, Git, Playwright, Vitest
+- **Oyun:** Unity, C#
+- **Temeller:** Java, C, C++
 
-Sade ve anlaşılır kod yazmayı önemserim.  
-Bir arayüzün sadece güzel görünmesini değil, düzenli çalışmasını da önemserim.  
-Projelerde okunabilir, geliştirilebilir ve düzenli bir yapı kurmaya çalışırım.  
+## Yaklaşımım
+
+Sade ve anlaşılır kod yazmayı önemserim.
+Bir arayüzün sadece güzel görünmesini değil, düzenli çalışmasını da önemserim.
+Projelerde okunabilir, geliştirilebilir ve düzenli bir yapı kurmaya çalışırım.
 Yeni teknolojileri gerçek projeler üzerinde deneyerek öğrenmeyi severim.
 
-## Current focus
+## İletişim
 
-React, TypeScript, modern CSS yapıları, kullanıcı arayüzü tasarımı, frontend mimarisi ve gerçek projeler üzerinden yazılım becerilerimi geliştirmek.
-
-## Elsewhere
-
-- LinkedIn — [linkedin.com/in/ismail-arat-486617375](https://www.linkedin.com/in/ismail-arat-486617375/)
-- GitHub — [github.com/ismailarat56](https://github.com/ismailarat56)
+- LinkedIn: [linkedin.com/in/ismail-arat-486617375](https://www.linkedin.com/in/ismail-arat-486617375/)
